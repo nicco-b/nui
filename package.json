@@ -1,0 +1,17 @@
+{
+	"name": "nui",
+	"version": "1.0.0",
+	"description": "reactjs UI library",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"devDependencies": {
+		"@types/react": "^18.0.8",
+		"react": "^18.1.0",
+		"typescript": "^4.6.4"
+	}
+}
